@@ -3,4 +3,4 @@
 
 (Eng) Here is the code from the exercises of the book "Grokay Algorithms" by Aditya Bhargava
 
-<img src="book.jpg" width="150" height="500"/>
+<img src="book.jpg" width="300" height="500"/>
