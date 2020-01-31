@@ -3,4 +3,4 @@
 
 (Eng) Here is the code from the exercises of the book "Grokay Algorithms" by Aditya Bhargava
 
-![alt text](GrokkingAlgorithmsBookStudy/book.jpg)
+![alt text](book.jpg)
